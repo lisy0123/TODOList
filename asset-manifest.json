@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/TODOList/static/js/app.af8b52bf.chunk.js",
-    "app.js.map": "/TODOList/static/js/app.af8b52bf.chunk.js.map",
+    "app.js": "/TODOList/static/js/app.171fadb2.chunk.js",
+    "app.js.map": "/TODOList/static/js/app.171fadb2.chunk.js.map",
     "runtime~app.js": "/TODOList/static/js/runtime~app.69517516.js",
     "runtime~app.js.map": "/TODOList/static/js/runtime~app.69517516.js.map",
-    "static/js/2.84eaabfd.chunk.js": "/TODOList/static/js/2.84eaabfd.chunk.js",
-    "static/js/2.84eaabfd.chunk.js.map": "/TODOList/static/js/2.84eaabfd.chunk.js.map",
+    "static/js/2.bb803382.chunk.js": "/TODOList/static/js/2.bb803382.chunk.js",
+    "static/js/2.bb803382.chunk.js.map": "/TODOList/static/js/2.bb803382.chunk.js.map",
     "fonts/AntDesign.ttf": "/TODOList/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/TODOList/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/TODOList/./fonts/Feather.ttf",
@@ -24,11 +24,11 @@
     "index.html": "/TODOList/index.html",
     "manifest.json": "/TODOList/manifest.json",
     "serve.json": "/TODOList/serve.json",
-    "static/js/2.84eaabfd.chunk.js.LICENSE.txt": "/TODOList/static/js/2.84eaabfd.chunk.js.LICENSE.txt"
+    "static/js/2.bb803382.chunk.js.LICENSE.txt": "/TODOList/static/js/2.bb803382.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.69517516.js",
-    "static/js/2.84eaabfd.chunk.js",
-    "static/js/app.af8b52bf.chunk.js"
+    "static/js/2.bb803382.chunk.js",
+    "static/js/app.171fadb2.chunk.js"
   ]
 }
